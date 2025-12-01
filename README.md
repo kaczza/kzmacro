@@ -18,14 +18,13 @@
 - 💾 **Save/Load System** - JSON format for easy backup and sharing
 
 ### 🎨 **Professional Interface**
-- 🎨 **G-HUB Inspired Design** - Dark theme with modern styling
+- 🎨 **SteelSeries GG Inspired Design** - Dark theme with modern styling
 - 📁 **Sidebar Navigation** - Easy profile management
 - 🧩 **Drag & Drop Blocks** - Visual macro building
 - 📊 **Real-time Preview** - See your macro as you build it
 
 ### ⚡ **Advanced Features**
 - 🌐 **Global Listener** - Works in any application
-- 🔄 **Multi-threaded** - Smooth performance while recording
 - 🛡️ **Error Handling** - Robust exception handling
 - 📱 **Responsive UI** - Adapts to different screen sizes
 
@@ -160,10 +159,8 @@ We welcome contributions! Here's how:
 ### Development Setup
 ```bash
 # Set up development environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
-pip install black flake8  # Optional: code formatting/linting
+py macro.py
 ```
 
 ## 📄 License
@@ -199,7 +196,7 @@ Found a bug? Have an idea for a feature?
 
 <div align="center">
   
-Made with ❤️ by the KzMacro Team
+Made with ❤️ by Kacza
 
 [![Star History Chart](https://api.star-history.com/svg?repos=kaczza/KzMacro&type=Date)](https://star-history.com/#kaczza/KzMacro&Date)
 
