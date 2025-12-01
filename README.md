@@ -5,8 +5,6 @@
 [![PyQt6](https://img.shields.io/badge/PyQt6-GUI-green)](https://www.riverbankcomputing.com/software/pyqt/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-**Professional G-HUB Style Macro Recorder & Automation Studio** - Create, manage, and play macros with keyboard and mouse support.
-
 ![KzMacro UI Preview](https://via.placeholder.com/800x450/1c252e/ffffff?text=KzMacro+Professional+Macro+Studio)
 
 ## ✨ Features
@@ -146,10 +144,8 @@ Profiles are saved in JSON format:
 - [ ] Mouse movement recording
 - [ ] Loop/repeat functionality
 - [ ] Conditional macros
-- [ ] Cloud sync
-- [ ] Plugin system
 - [ ] Scripting support
-- [ ] Mobile companion app
+- [ ] Auto startup
 
 ## 🤝 Contributing
 
@@ -176,7 +172,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Inspired by Logitech G-HUB software
+- Inspired by SteelSeries GG
 - Built with [PyQt6](https://www.riverbankcomputing.com/software/pyqt/)
 - Uses [pynput](https://pypi.org/project/pynput/) for input monitoring
 - Thanks to all contributors and testers!
@@ -185,7 +181,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Found a bug? Have an idea for a feature?
 
-1. Check the [Issues](https://github.com/yourusername/KzMacro/issues) page
+1. Check the [Issues](https://github.com/kaczaa/KzMacro/issues) page
 2. If not reported, create a new issue
 3. Include:
    - Steps to reproduce
@@ -195,7 +191,7 @@ Found a bug? Have an idea for a feature?
 
 ## 📞 Support
 
-- **GitHub Issues**: [Report Problems](https://github.com/yourusername/KzMacro/issues)
+- **GitHub Issues**: [Report Problems](https://github.com/kaczza/KzMacro/issues)
 - **Documentation**: Check this README and code comments
 - **Community**: Join our Discord (coming soon!)
 
