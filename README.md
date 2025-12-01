@@ -1,11 +1,11 @@
 # KzMacro 🎮
 
-![KzMacro Screenshot](https://img.shields.io/badge/KzMacro-Pro_Studio-blueviolet)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![PyQt6](https://img.shields.io/badge/PyQt6-GUI-green)](https://www.riverbankcomputing.com/software/pyqt/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-![KzMacro UI Preview](https://via.placeholder.com/800x450/1c252e/ffffff?text=KzMacro+Professional+Macro+Studio)
+<img width="1188" height="641" alt="image" src="https://github.com/user-attachments/assets/d563fcd5-3616-4c09-a0d9-2f8b5b8d2598" />
+
 
 ## ✨ Features
 
