@@ -39,7 +39,7 @@ Python 3.8 or higher
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/KzMacro.git
+git clone https://github.com/kaczza/KzMacro.git
 cd KzMacro
 
 # Install dependencies
@@ -181,7 +181,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Found a bug? Have an idea for a feature?
 
-1. Check the [Issues](https://github.com/kaczaa/KzMacro/issues) page
+1. Check the [Issues](https://github.com/kaczza/KzMacro/issues) page
 2. If not reported, create a new issue
 3. Include:
    - Steps to reproduce
@@ -201,7 +201,7 @@ Found a bug? Have an idea for a feature?
   
 Made with ❤️ by the KzMacro Team
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/KzMacro&type=Date)](https://star-history.com/#yourusername/KzMacro&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=kaczza/KzMacro&type=Date)](https://star-history.com/#kaczza/KzMacro&Date)
 
 </div>
 
